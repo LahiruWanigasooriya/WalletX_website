@@ -1,7 +1,7 @@
-BudgetX - Financial Management Frontend--------------------------------------------------------------------------------------------------------
+WalletX - Financial Management Frontend--------------------------------------------------------------------------------------------------------
 
 Description:
-BudgetX is a simple and user-friendly financial management application designed with a focus on intuitive navigation and modern design. Built entirely with HTML and CSS, this frontend project offers the following features:
+WalletX is a simple and user-friendly financial management application designed with a focus on intuitive navigation and modern design. Built entirely with HTML and CSS, this frontend project offers the following features:
 
 -Home Tab: A welcoming landing page with quick navigation options.
 -Budget Plan: A dedicated section to structure and plan your finances.
@@ -12,4 +12,4 @@ BudgetX is a simple and user-friendly financial management application designed 
 -Sign-In Popup: A dynamic popup for user authentication.
 -Smooth navigation between pages to enhance the user experience.
 
-Explore BudgetX and feel free to contribute or share feedback.
+Explore WalletX and feel free to contribute or share feedback.
